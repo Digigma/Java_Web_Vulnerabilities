@@ -1,6 +1,6 @@
 # Java_Web_Vulnerabilities
 
-The purpose of this assignment is to secure vulnerable source code in the application provided and provide a report on how you achieved this.
+The purpose of this assignment was to secure vulnerable source code in the application provided and provide a report on how was this achieved.
 You will be supplied with a simple Web application. The app is coded using JSP and connects to a MySQL backend database. There are two parts to the assignment: demonstrate the exploits (show using screenshots and a description how the application is vulnerable in the source code) and then fix the code.
 You need to find weaknesses, exploit them, and finally fix them. For the first part of your assignment you need to analyse the code and look for possible weaknesses. You then need to try exploit any weakness you think you have identified. For example, if you think a form field is vulnerable to XSS, then perform some attack to show the weakness.
 (Only one example vulnerability, per location, each field, is required and will be considered as a fix. In other words, you won’t get any more marks for fixing a SQL injection vulnerability in several places).
